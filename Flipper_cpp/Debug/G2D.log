@@ -1,0 +1,22 @@
+﻿  Eleve.cpp
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(138,45): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(143,31): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(147,18): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(149,55): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(153,83): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(162,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(173,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(177,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(189,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(216,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(220,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(229,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(235,94): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(236,94): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(311,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(329,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(330,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(363,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(390,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\RAJ\Desktop\Flipper_cpp\Eleve.cpp(390,22): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  G2D.vcxproj -> C:\Users\RAJ\Desktop\Flipper_cpp\Debug\G2D.exe
